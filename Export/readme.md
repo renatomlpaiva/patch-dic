@@ -1,19 +1,18 @@
 ////////////////////////////////////////////////////////////////
-//                                                            //
 // Dentro  do arquivo RAR  existem patches para  o Microsiga  //
 // Protheus conforme o ambiente.                              //
 //                                                            //
 //   nnnnnn T T x y zzz.PTM                                   //
 //     |        | |  |                                        //
 //     |        | |  |                                        //
-//     |        | |  +-> Versão Protheus: 10, 11, etc.        //
-//     |        | +-> P – Português, S – Spanish, E – English //
-//     |        +-> D – DBF, T – TopConnect (DBAccess)        //
-//     +--------> Nome/Versão da ferramenta                   //
+//     |        | |  +-> VersÃ£o Protheus: 10, 11, etc.        //
+//     |        | +-> P â€“ PortuguÃªs, S â€“ Spanish, E â€“ English //
+//     |        +-> D â€“ DBF, T â€“ TopConnect (DBAccess)        //
+//     +--------> Nome/VersÃ£o da ferramenta                   //
 //                                                            //
-// Aplique a patch através do IDE ou TDS.                     //
+// Aplique a patch atravÃ©s do IDE ou TDS.                     //
 //                                                            //
-// Após aplicação,  a ferramenta pode  ser incluída  em algum //
+// ApÃ³s aplicaÃ§Ã£o,  a ferramenta pode  ser incluÃ­da  em algum //
 // menu  do sistema  Microsiga Protheus  ou pode  ser chamada //
 // diretamente da tela de splash do SmartClient, lembrando de //
 // colocar U_ na frente do nome da ferramenta.                //
@@ -22,13 +21,11 @@
 //                                                            //
 // http://www.ernaniforastieri.com                            //
 //                                                            //
-// Lá você encontrará sempre a última versão dessa e de       //
+// LÃ¡ vocÃª encontrarÃ¡ sempre a Ãºltima versÃ£o dessa e de       //
 // outras ferramentas.                                        //
 //                                                            //
 // Espero que ajude.                                          //
 //                                                            //
 // Obrigado.                                                  //
-//                                                            //
-//                                        Ernani Forastieri   //
 //                                                            //
 ////////////////////////////////////////////////////////////////
