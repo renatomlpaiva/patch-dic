@@ -1,34 +1,27 @@
-////////////////////////////////////////////////////////////////
-//                                                            //
-// Dentro  do arquivo RAR  existem patches para  o Microsiga  //
-// Protheus conforme o ambiente.                              //
-//                                                            //
-//   nnnnnn T T x y zzz.PTM                                   //
-//     |        | |  |                                        //
-//     |        | |  |                                        //
-//     |        | |  +-> Vers„o Protheus: 10, 11, etc.        //
-//     |        | +-> P ñ PortuguÍs, S ñ Spanish, E ñ English //
-//     |        +-> D ñ DBF, T ñ TopConnect (DBAccess)        //
-//     +--------> Nome/Vers„o da ferramenta                   //
-//                                                            //
-// Aplique a patch atravÈs do IDE ou TDS.                     //
-//                                                            //
-// ApÛs aplicaÁ„o,  a ferramenta pode  ser incluÌda  em algum //
-// menu  do sistema  Microsiga Protheus  ou pode  ser chamada //
-// diretamente da tela de splash do SmartClient, lembrando de //
-// colocar U_ na frente do nome da ferramenta.                //
-//                                                            //
-// Para mais ferramentas e dicas, acesse:                     //
-//                                                            //
-// http://www.ernaniforastieri.com                            //
-//                                                            //
-// L· vocÍ encontrar· sempre a ˙ltima vers„o dessa e de       //
-// outras ferramentas.                                        //
-//                                                            //
-// Espero que ajude.                                          //
-//                                                            //
-// Obrigado.                                                  //
-//                                                            //
-//                                        Ernani Forastieri   //
-//                                                            //
-////////////////////////////////////////////////////////////////
+ Dentro  do diretorio  existem patches para  o Microsiga  
+ Protheus conforme o ambiente.                              
+                                                            
+   nnnnnn T T x y zzz.PTM                                   
+     |        | |  |                                        
+     |        | |  |                                        
+     |        | |  +-> Vers√£o Protheus: 10, 11, etc.        
+     |        | +-> P ‚Äì Portugu√™s, S ‚Äì Spanish, E ‚Äì English 
+     |        +-> D ‚Äì DBF, T ‚Äì TopConnect (DBAccess)        
+     +--------> Nome/Vers√£o da ferramenta                   
+                                                          
+ Aplique a patch atrav√©s do IDE ou TDS.                     
+                                                            
+ Ap√≥s aplica√ß√£o,  a ferramenta pode  ser inclu√≠da  em algum 
+ menu  do sistema  Microsiga Protheus  ou pode  ser chamada 
+ diretamente da tela de splash do SmartClient, lembrando de 
+ colocar U_ na frente do nome da ferramenta.                
+                                                            
+ Para mais ferramentas e dicas, acesse:                     
+                                                            
+ 
+ Espero que ajude.                                          
+                                                            
+ Obrigado.                                                  
+                                                            
+Site de consulta
+http://www.ernaniforastieri.com                            
